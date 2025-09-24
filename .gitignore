@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Hugo build outputs
+/public/
+resources/_gen/
+hugo_build.lock
+
+# editor / system
+.vscode/
+.idea/
+node_modules/

@@ -1,0 +1,5 @@
+baseURL = "http://localhost:1313/"   # change later to your real domain once live
+languageCode = "en-us"
+title = "My Hugo Blog"
+theme = "PaperMod"                   # match the theme folder name
+
